@@ -1,0 +1,3 @@
+The Context API in React is a tool for managing and sharing state or data across components without needing to pass props down through multiple layers (prop drilling). There are three elements : createContext, Provider and Consumer.
+The useContext hook in React allows you to access the context value directly without needing a Consumer component. It simplifies working with Context API by providing the value of the nearest Provider for the specified context. By using useContext, you can write cleaner and more readable code when consuming context data.
+The Context API and useContext are used to share data like themes, authentication, or global settings across components without passing props manually. They simplify accessing shared state in React applications.
