@@ -1,0 +1,1 @@
+The useEffect hook in React is used to perform side effects in functional components, such as data fetching, subscriptions, or DOM updates. It runs after the component renders and can be controlled to run on specific state.
